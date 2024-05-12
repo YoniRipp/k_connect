@@ -1,0 +1,11 @@
+{
+  "development": {
+    "username": "root",
+    "password": "1122",
+    "database": "itemdb",
+    "host": "localhost",
+    "port": "3305",
+    "dialect": "mysql",
+    "API_KEY": "imthekey"
+  }
+}
