@@ -9,7 +9,7 @@ Node.js installed (specify minimum version, e.g., Node.js 14.x or newer).
 MySQL installed or access to a MySQL database.
 
 ## Environment Variables
-To run this project, you will need to add the following environment variables to your .env file:
+To run this project, you will need to add/change the following environment variables to your config.json file:
 
 ```plaintext
 DB_HOST=localhost
@@ -31,10 +31,6 @@ cd k_connect
 Install dependencies
 ```plaintext
 npm i
-```
-Set up the environment variables
-```plaintext
-Create a .env file in the root directory of the project and fill it with the environment variables as described above.
 ```
 
 ## Running the Application
